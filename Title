@@ -1,1 +1,0 @@
-# Cottage of Mr Otter
