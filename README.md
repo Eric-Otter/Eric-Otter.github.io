@@ -1,5 +1,9 @@
 # Cottage of Mr Otter
 majiahao@nibs.ac.cn
+
+
+<img src="书籍_mh1517477372998.jpg" height="150" style="margin-left:5em">
+
 ## 📖Learning Website
   * [Bioinformatics Tutorial-Basic](https://lulab2.gitbook.io/teaching/)(《生物信息学实践》课程教材)
   * [UniProt](https://www.uniprot.org/)(蛋白质数据库)
