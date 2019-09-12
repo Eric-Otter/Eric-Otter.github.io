@@ -2,7 +2,7 @@
 majiahao@nibs.ac.cn
 
 
-<img src="书籍_mh1517477372998.jpg" height="200" style="margin-left:0em"><img src="personal life.png" height="200">
+<img src="书籍_mh1517477372998.jpg" height="200" style="margin-left:0em">
 
 ## 📖Learning Website
   * [Bioinformatics Tutorial-Basic](https://lulab2.gitbook.io/teaching/)(《生物信息学实践》课程教材)
